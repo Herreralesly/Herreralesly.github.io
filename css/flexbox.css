@@ -161,7 +161,7 @@
     text-align: center;
     color: white;
     background: linear-gradient(0deg,#fff,transparent),
-                url('images/pena.jpg') no-repeat center;
+      url('images/pena.jpg') no-repeat center;
     background-size:  cover;
   }
 

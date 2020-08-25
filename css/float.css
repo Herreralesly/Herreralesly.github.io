@@ -139,9 +139,8 @@
     text-align: center;
     color: white;
     background: linear-gradient(0deg,#fff,transparent),
-                url('images/playa_nica.jpg') no-repeat center;
+    url('images/playa_nica.jpg') no-repeat center;
     background-size:  cover;
-
   }
 
   .cover-image{
